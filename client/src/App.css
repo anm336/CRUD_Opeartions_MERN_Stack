@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+.items{
+  display: flex;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+h3{
+  margin-right: 5px;
+}
+p{
+  margin-right: 5px;
+  font-size: 25px;
+}
+.btn{
+  width: 100px;
+  height: 45px;
+}
+
+.delbtn{
+  position: absolute;
+  right: 20%;
+}
+
+.updatename{
+  height: 45px;
+  margin-right: 10px;
+}
+
+.updateinfo{
+  position: absolute;
+  right: 29%;
+}
+
